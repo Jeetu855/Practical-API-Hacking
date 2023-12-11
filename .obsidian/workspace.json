@@ -11,11 +11,9 @@
             "id": "b14a6e7d2060c5d4",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Attacking Authorization/Attacking Authorization.md",
-                "mode": "source",
-                "source": false
+                "file": "Attacking Authentication/Attachments/jwt_toolAttack.png"
               }
             }
           }
@@ -85,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Attacking Authorization/Attacking Authorization.md",
+                "file": "Attacking Authentication/Attachments/jwt_toolAttack.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Attacking Authorization/Attacking Authorization.md",
+                "file": "Attacking Authentication/Attachments/jwt_toolAttack.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Attacking Authorization/Attacking Authorization.md"
+                "file": "Attacking Authentication/Attachments/jwt_toolAttack.png"
               }
             }
           }
@@ -148,17 +146,20 @@
   },
   "active": "b14a6e7d2060c5d4",
   "lastOpenFiles": [
-    "Attacking Authorization/Attachments/chall8.png",
+    "Attacking Authentication/Attacking Authentication.md",
+    "Attacking Authentication/Attachments/jwt_toolAttack.png",
+    "Attacking Authentication/Attachments/jwt_tool.png",
+    "Attacking Authentication/Attachments/jwtDecode.png",
+    "Attacking Authentication/Attachments/sequencerbitEntropy.png",
+    "Attacking Authentication/Attachments",
     "Attacking Authorization/Attacking Authorization.md",
+    "Attacking Authentication",
+    "Attacking Authorization/Attachments/chall8.png",
     "Attacking Authorization/Attachments/chall7.png",
     "Attacking Authorization/Attachments/chall6.png",
     "Attacking Authorization/Attachments/chall5.png",
     "Attacking Authorization/Attachments/chall4.png",
     "Attacking Authorization/Attachments/chall3.png",
-    "Attacking Authorization/Attachments/Pasted image 20231207205943.png",
-    "Attacking Authorization/Attachments/Pasted image 20231207205945.png",
-    "Attacking Authorization/Attachments/Chall.png",
-    "Attacking Authorization/Attachments/Chall1.png",
     "Attacking Authorization/Attachments",
     "Enumerating API/Fuzzing API.md",
     "Attacking Authorization",
