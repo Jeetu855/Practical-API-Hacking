@@ -11,9 +11,11 @@
             "id": "b14a6e7d2060c5d4",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Attacking Authentication/Attachments/jwt_toolAttack.png"
+                "file": "Injection/Injection Attacks.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -83,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Attacking Authentication/Attachments/jwt_toolAttack.png",
+                "file": "Injection/Injection Attacks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Attacking Authentication/Attachments/jwt_toolAttack.png",
+                "file": "Injection/Injection Attacks.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Attacking Authentication/Attachments/jwt_toolAttack.png"
+                "file": "Injection/Injection Attacks.md"
               }
             }
           }
@@ -146,8 +148,15 @@
   },
   "active": "b14a6e7d2060c5d4",
   "lastOpenFiles": [
-    "Attacking Authentication/Attacking Authentication.md",
+    "Injection/Attachments/challenge.png",
+    "Injection/Injection Attacks.md",
+    "Injection/Attachments/sqli3.png",
+    "Injection/Attachments/sqli2.png",
+    "Injection/Attachments/sqli1.png",
+    "Injection/Attachments",
     "Attacking Authentication/Attachments/jwt_toolAttack.png",
+    "Injection",
+    "Attacking Authentication/Attacking Authentication.md",
     "Attacking Authentication/Attachments/jwt_tool.png",
     "Attacking Authentication/Attachments/jwtDecode.png",
     "Attacking Authentication/Attachments/sequencerbitEntropy.png",
@@ -156,10 +165,6 @@
     "Attacking Authentication",
     "Attacking Authorization/Attachments/chall8.png",
     "Attacking Authorization/Attachments/chall7.png",
-    "Attacking Authorization/Attachments/chall6.png",
-    "Attacking Authorization/Attachments/chall5.png",
-    "Attacking Authorization/Attachments/chall4.png",
-    "Attacking Authorization/Attachments/chall3.png",
     "Attacking Authorization/Attachments",
     "Enumerating API/Fuzzing API.md",
     "Attacking Authorization",
