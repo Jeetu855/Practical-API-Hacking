@@ -11,11 +11,9 @@
             "id": "b14a6e7d2060c5d4",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Injection/Injection Attacks.md",
-                "mode": "source",
-                "source": false
+                "file": "Capstone/Attachments/capstone1_1.png"
               }
             }
           }
@@ -85,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Injection/Injection Attacks.md",
+                "file": "Capstone/Attachments/capstone1_1.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Injection/Injection Attacks.md",
+                "file": "Capstone/Attachments/capstone1_1.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Injection/Injection Attacks.md"
+                "file": "Capstone/Attachments/capstone1_1.png"
               }
             }
           }
@@ -146,10 +144,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b14a6e7d2060c5d4",
+  "active": "df6746edc5d54778",
   "lastOpenFiles": [
-    "Injection/Attachments/challenge.png",
+    "Untitled",
+    "Capstone/Course Capstone.md",
+    "Capstone/Attachments/capstone1_1.png",
+    "Capstone/Attachments",
     "Injection/Injection Attacks.md",
+    "Capstone",
+    "Injection/Attachments/challenge.png",
     "Injection/Attachments/sqli3.png",
     "Injection/Attachments/sqli2.png",
     "Injection/Attachments/sqli1.png",
@@ -164,7 +167,6 @@
     "Attacking Authorization/Attacking Authorization.md",
     "Attacking Authentication",
     "Attacking Authorization/Attachments/chall8.png",
-    "Attacking Authorization/Attachments/chall7.png",
     "Attacking Authorization/Attachments",
     "Enumerating API/Fuzzing API.md",
     "Attacking Authorization",
@@ -172,8 +174,6 @@
     "Intro/About API.md",
     "Web Apps.md",
     "Web App Basics",
-    "Enumerating API/Attachments",
-    "Enumerating API",
-    "Intro"
+    "Enumerating API/Attachments"
   ]
 }
