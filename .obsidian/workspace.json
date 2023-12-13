@@ -11,9 +11,11 @@
             "id": "b14a6e7d2060c5d4",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Capstone/Attachments/capstone1_1.png"
+                "file": "Mass Assignment/Mass Assignment.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -67,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "c6daa822e2595f9e",
@@ -83,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Capstone/Attachments/capstone1_1.png",
+                "file": "Mass Assignment/Mass Assignment.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Capstone/Attachments/capstone1_1.png",
+                "file": "Mass Assignment/Mass Assignment.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Capstone/Attachments/capstone1_1.png"
+                "file": "Mass Assignment/Mass Assignment.md"
               }
             }
           }
@@ -144,11 +147,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "df6746edc5d54778",
+  "active": "b14a6e7d2060c5d4",
   "lastOpenFiles": [
-    "Untitled",
+    "Mass Assignment/Attachments/Pasted image 20231213211545.png",
+    "Mass Assignment/Attachments/Pasted image 20231213210926.png",
+    "Mass Assignment/Attachments/Pasted image 20231213204621.png",
+    "Mass Assignment/Attachments/Pasted image 20231213204524.png",
+    "Mass Assignment/Attachments/Pasted image 20231213204425.png",
+    "Mass Assignment/Attachments/Pasted image 20231213203936.png",
+    "Mass Assignment/Attachments",
     "Capstone/Course Capstone.md",
     "Capstone/Attachments/capstone1_1.png",
+    "Mass Assignment/Mass Assignment.md",
+    "Mass Assignment",
     "Capstone/Attachments",
     "Injection/Injection Attacks.md",
     "Capstone",
@@ -157,23 +168,16 @@
     "Injection/Attachments/sqli2.png",
     "Injection/Attachments/sqli1.png",
     "Injection/Attachments",
-    "Attacking Authentication/Attachments/jwt_toolAttack.png",
     "Injection",
     "Attacking Authentication/Attacking Authentication.md",
-    "Attacking Authentication/Attachments/jwt_tool.png",
-    "Attacking Authentication/Attachments/jwtDecode.png",
-    "Attacking Authentication/Attachments/sequencerbitEntropy.png",
     "Attacking Authentication/Attachments",
     "Attacking Authorization/Attacking Authorization.md",
     "Attacking Authentication",
-    "Attacking Authorization/Attachments/chall8.png",
     "Attacking Authorization/Attachments",
     "Enumerating API/Fuzzing API.md",
     "Attacking Authorization",
     "Web App Basics/Web Apps.md",
     "Intro/About API.md",
-    "Web Apps.md",
-    "Web App Basics",
-    "Enumerating API/Attachments"
+    "Web Apps.md"
   ]
 }
