@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mass Assignment/Mass Assignment.md",
+                "file": "Capstone/Capstone 2.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mass Assignment/Mass Assignment.md",
+                "file": "Capstone/Capstone 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mass Assignment/Mass Assignment.md",
+                "file": "Capstone/Capstone 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mass Assignment/Mass Assignment.md"
+                "file": "Capstone/Capstone 2.md"
               }
             }
           }
@@ -149,6 +149,10 @@
   },
   "active": "b14a6e7d2060c5d4",
   "lastOpenFiles": [
+    "Excessive Data Exposure & SSRF/Excessive Data Exposure & SSRF.md",
+    "Capstone/Capstone 2.md",
+    "Mass Assignment/Mass Assignment.md",
+    "Excessive Data Exposure & SSRF",
     "Mass Assignment/Attachments/Pasted image 20231213211545.png",
     "Mass Assignment/Attachments/Pasted image 20231213210926.png",
     "Mass Assignment/Attachments/Pasted image 20231213204621.png",
@@ -158,7 +162,6 @@
     "Mass Assignment/Attachments",
     "Capstone/Course Capstone.md",
     "Capstone/Attachments/capstone1_1.png",
-    "Mass Assignment/Mass Assignment.md",
     "Mass Assignment",
     "Capstone/Attachments",
     "Injection/Injection Attacks.md",
@@ -166,7 +169,6 @@
     "Injection/Attachments/challenge.png",
     "Injection/Attachments/sqli3.png",
     "Injection/Attachments/sqli2.png",
-    "Injection/Attachments/sqli1.png",
     "Injection/Attachments",
     "Injection",
     "Attacking Authentication/Attacking Authentication.md",
@@ -175,7 +177,6 @@
     "Attacking Authentication",
     "Attacking Authorization/Attachments",
     "Enumerating API/Fuzzing API.md",
-    "Attacking Authorization",
     "Web App Basics/Web Apps.md",
     "Intro/About API.md",
     "Web Apps.md"
