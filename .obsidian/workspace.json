@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Capstone/Capstone 2.md",
+                "file": "Injection/Injection Attacks.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "c6daa822e2595f9e",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Capstone/Capstone 2.md",
+                "file": "Injection/Injection Attacks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Capstone/Capstone 2.md",
+                "file": "Injection/Injection Attacks.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Capstone/Capstone 2.md"
+                "file": "Injection/Injection Attacks.md"
               }
             }
           }
@@ -147,35 +146,36 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b14a6e7d2060c5d4",
+  "active": "df6746edc5d54778",
   "lastOpenFiles": [
-    "Excessive Data Exposure & SSRF/Excessive Data Exposure & SSRF.md",
+    "Demo Zip Files/api-injection.zip",
+    "Demo Zip Files/api-midcourse-capstone.zip",
+    "Demo Zip Files/api-token-analysis.zip",
+    "Demo Zip Files/api-final-capstone.zip",
+    "Demo Zip Files/jwt-demo.zip",
+    "Demo Zip Files/api-nosql-injection.zip",
+    "Demo Zip Files/api-mass-assignment.zip",
+    "Demo Zip Files/api-brute-force-demo2.zip",
+    "Demo Zip Files",
+    "Demo'sZipFiles/api-mass-assignment.zip",
+    "Demo'sZipFiles/Unconfirmed 288201.crdownload",
     "Capstone/Capstone 2.md",
+    "Excessive Data Exposure & SSRF/Excessive Data Exposure & SSRF.md",
     "Mass Assignment/Mass Assignment.md",
-    "Excessive Data Exposure & SSRF",
     "Mass Assignment/Attachments/Pasted image 20231213211545.png",
     "Mass Assignment/Attachments/Pasted image 20231213210926.png",
     "Mass Assignment/Attachments/Pasted image 20231213204621.png",
     "Mass Assignment/Attachments/Pasted image 20231213204524.png",
     "Mass Assignment/Attachments/Pasted image 20231213204425.png",
     "Mass Assignment/Attachments/Pasted image 20231213203936.png",
-    "Mass Assignment/Attachments",
     "Capstone/Course Capstone.md",
     "Capstone/Attachments/capstone1_1.png",
-    "Mass Assignment",
-    "Capstone/Attachments",
     "Injection/Injection Attacks.md",
-    "Capstone",
     "Injection/Attachments/challenge.png",
     "Injection/Attachments/sqli3.png",
     "Injection/Attachments/sqli2.png",
-    "Injection/Attachments",
-    "Injection",
     "Attacking Authentication/Attacking Authentication.md",
-    "Attacking Authentication/Attachments",
     "Attacking Authorization/Attacking Authorization.md",
-    "Attacking Authentication",
-    "Attacking Authorization/Attachments",
     "Enumerating API/Fuzzing API.md",
     "Web App Basics/Web Apps.md",
     "Intro/About API.md",
